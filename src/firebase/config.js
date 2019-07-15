@@ -1,8 +1,9 @@
 export const config = {
-  apiKey: "Your API Key",
-  authDomain: "Your Auth Domain",
-  databaseURL: "Your Database URL",
-  projectId: "Your Project ID",
-  storageBucket: "Your Storage Bucket",
-  messagingSenderId: "Your Messaging Sender ID"
+  apiKey: "AIzaSyCKgjvtjfWobYxUHuajDmBbs9jYNhPeLlw",
+  authDomain: "konfusion-server.firebaseapp.com",
+  databaseURL: "https://konfusion-server.firebaseio.com",
+  projectId: "konfusion-server",
+  storageBucket: "konfusion-server.appspot.com",
+  messagingSenderId: "567648479435",
+  appId: "1:567648479435:web:5dfd618e3c700071"
 };
